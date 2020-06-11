@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cryhouse/monsters/static/css/main.78206b23.chunk.css",
+    "main.js": "/cryhouse/monsters/static/js/main.bc527a34.chunk.js",
+    "main.js.map": "/cryhouse/monsters/static/js/main.bc527a34.chunk.js.map",
+    "runtime-main.js": "/cryhouse/monsters/static/js/runtime-main.0254072d.js",
+    "runtime-main.js.map": "/cryhouse/monsters/static/js/runtime-main.0254072d.js.map",
+    "static/js/2.107ed972.chunk.js": "/cryhouse/monsters/static/js/2.107ed972.chunk.js",
+    "static/js/2.107ed972.chunk.js.map": "/cryhouse/monsters/static/js/2.107ed972.chunk.js.map",
+    "index.html": "/cryhouse/monsters/index.html",
+    "precache-manifest.d8c513ebd318a66d710b35ec48dd7c79.js": "/cryhouse/monsters/precache-manifest.d8c513ebd318a66d710b35ec48dd7c79.js",
+    "service-worker.js": "/cryhouse/monsters/service-worker.js",
+    "static/css/main.78206b23.chunk.css.map": "/cryhouse/monsters/static/css/main.78206b23.chunk.css.map",
+    "static/js/2.107ed972.chunk.js.LICENSE.txt": "/cryhouse/monsters/static/js/2.107ed972.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cryhouse/monsters/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0254072d.js",
+    "static/js/2.107ed972.chunk.js",
+    "static/css/main.78206b23.chunk.css",
+    "static/js/main.bc527a34.chunk.js"
+  ]
+}
