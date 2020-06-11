@@ -3,12 +3,7 @@ import "./App.css";
 import { CardList } from "./components/card-list/card-list.component.jsx";
 import { SearchBox } from "./components/search-box/search-box.component.jsx";
 
-const uuid = require("uuid");
-
 class App extends Component {
-  get_new_id = () => {
-    return uuid.v4();
-  };
   constructor() {
     super();
 
