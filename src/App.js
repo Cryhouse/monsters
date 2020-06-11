@@ -21,7 +21,7 @@ class App extends Component {
     this.setState({ search_field: e.target.value });
   };
   componentDidMount() {
-    fetch(`http://jsonplaceholder.typicode.com/users`)
+    fetch(`https://jsonplaceholder.typicode.com/users`)
       .then((users_json) => users_json.json())
       .then((users) => this.setState({ monsters: users }));
   }
